@@ -17,7 +17,8 @@ pip install opencv-python numpy matplotlib
 - 🔹 Displays it using `matplotlib`
 
 **Example Output:**
-![Screenshot (16)](https://github.com/user-attachments/assets/60c2830f-cbde-40c8-a4a8-74d5c5331af6)
+![Screenshot (17)](https://github.com/user-attachments/assets/cfa90f71-79b3-436b-8320-5b0f08c2e2d0)
+
 
 ---
 
